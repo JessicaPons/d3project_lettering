@@ -1,0 +1,91 @@
+h1 span { font-family: 'Anton', sans-serif;}
+.char1{
+  color: #5EB1BF;
+  font-size: 4em;
+}
+.char2{
+  color: #5EB1BF;
+  font-size: 4em;
+}
+.char3{
+  color: #5EB1BF;
+  font-size: 4em;
+}
+.char4{
+  color: #5EB1BF;
+  font-size: 2em;
+}
+.char5{
+  color: #5EB1BF;
+  font-size: 4em;
+}
+.char6{
+  color: #FAF33E;
+  font-size: 4em;
+}
+.char7{
+  color: #FAF33E;
+  font-size: 4em;
+}
+.char8{
+  color: #FAF33E;
+  font-size: 4em;
+}
+.char9{
+  color: #54F2F2;
+  font-size: 4em;
+}
+.char10{
+  color: #54F2F2;
+  font-size: 4em;
+}
+.char11{
+  color: #54F2F2;
+  font-size: 4em;
+}
+.char12{
+  color: #54F2F2;
+  font-size: 2em;
+}
+.char13{
+  color: #54F2F2;
+  font-size: 4em;
+}
+.char14{
+  color: #54F2F2;
+  font-size: 4em;
+}
+.char15{
+  color: #042A2B;
+  font-size: 4em;
+}
+.char16{
+  color: #042A2B;
+  font-size: 4em;
+}
+.char17{
+  color: #042A2B;
+  font-size: 4em;
+}
+.char18{
+  color: #042A2B;
+  font-size: 4em;
+}
+.char19{
+  color: #042A2B;
+  font-size: 4em;
+}
+.char20{
+  color: #042A2B;
+  font-size: 4em;
+}
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
